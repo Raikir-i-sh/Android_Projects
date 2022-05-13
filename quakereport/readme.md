@@ -1,0 +1,1 @@
+simple news display app that fetches earthquake data from a url in JSON format and shows them in a list view.
