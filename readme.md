@@ -1,0 +1,1 @@
+This is a simple note taking app to write down anything you want. 
